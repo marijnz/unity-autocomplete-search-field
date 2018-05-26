@@ -4,6 +4,6 @@ A simple Editor UI component for Unity. It's a normal search field but shows a n
 
 
 
-![Imgur](https://i.imgur.com/PqPOEIT.gif)
+![Imgur](https://i.imgur.com/IoNGd3V.gif)
 
 ![Imgur](https://i.imgur.com/kNH8r3k.gif)
